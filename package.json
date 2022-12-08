@@ -17,7 +17,7 @@
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongodb": "^3.3.3"
   }
 }
